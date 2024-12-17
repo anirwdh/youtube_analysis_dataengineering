@@ -1,4 +1,4 @@
-# Youtube Analysis Project Data Engineering
+# Data Engineering YouTube Analysis Project by Darshil Parmar
 
 ## Overview
 
@@ -27,3 +27,8 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ## Architecture Diagram
 <img src="architecture.jpeg">
+
+## Complete Tutorial
+I have created a detailed 3+ hour tutorial on this project, where you will execute everything from start to end
+
+https://youtu.be/yZKJFKu49Dk
